@@ -60,7 +60,7 @@ Parts used:
 - GND -> GND
 - SIGNAL -> PA1
 
-#### Battery Voltage Measurement
+#### Power
 - 18650 Battery + / - -> BMS Protection + / -
 - BMS Protection P+ / P- -> CN3065 BAT+ / BAT–
 - BMS Protection P+ / P- -> Voltage Divider
