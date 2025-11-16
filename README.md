@@ -65,7 +65,7 @@ Parts used:
 - BMS Protection P+ / P- -> CN3065 BAT+ / BAT–
 - BMS Protection P+ / P- -> Voltage Divider
 - Voltage Divider -> STM32 A9
-- Filtering Capacitor (100 nF 100 V) -> Across SG90 VCC and GND
+- Filtering Capacitor (100 nF 100 V) -> nRF24L01 VCC and GND
 - Solar Panel (6 V 500 mA) + / - -> CN3065 SOLAR IN + / –
 - CN3065 OUT+ -> 5V Step-Up Regulator IN+
 - CN3065 OUT– -> Regulator IN–
